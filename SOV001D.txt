@@ -2520,92 +2520,6 @@
 	        }
 	    }
 	]
-	[RareSlot(0)]
-		0 RW01 Eni, Alabaster Gladiator
-		0 RW07 Leygrid Railracer
-		0 RG02 Than, Desolate Scavenger
-		0 RM10 Sudden Raid
-		0 RM04 Hand of the Benefactor
-		0 RW01 Small Creature
-		0 RW02 Small Creature
-		0 RW03 Medium Creature
-		0 RW04 Medium Creature
-		0 RW05 Medium Creature
-		0 RW08 Noncreature
-		0 RU01 Small Creature
-		0 RU02 Small Creature
-		0 RU03 Small Creature
-		0 RU04 Small Creature
-		0 RU05 Small Creature
-		0 RU06 Steelflow Shoalweaver
-		0 RU07 Noncreature
-		0 RU08 Noncreature
-		0 RU09 Noncreature
-		0 RU10 Noncreature
-		0 RB01 Small Creature
-		0 RB02 Small Creature
-		0 RB04 Small Creature
-		0 RB05 Medium Creature
-		0 RB06 Noncreature
-		0 RB07 Noncreature
-		0 RR01 Small Creature
-		0 RR02 Small Creature
-		0 RR03 Small Creature
-		0 RR04 Medium Creature
-		0 RR05 Cera, Skycaptain
-		0 RR06 Medium Creature
-		0 RR07 Large Creature
-		0 RR08 Noncreature
-		0 RR09 Noncreature
-		0 RG03 Small Creature
-		0 RG04 Small Creature
-		0 RG05 Small Creature
-		0 RG06 Medium Creature
-		0 RG07 Savage Sandthresher
-		0 RG08 Large Creature
-		0 RG09 Noncreature
-		0 RG10 Noncreature
-		0 RG11 Noncreature
-		0 RM01 Small Creature
-		0 RM02 Small Creature
-		0 RM03 Small Creature
-		0 RM05 Medium Creature
-		0 RM06 Medium Creature
-		0 RM07 Desiccate
-		0 RM08 Medium Creature
-		0 RM09 TALOS, Heart of Vikaar
-		0 RM10 Medium Creature
-		0 RM11 Medium Creature
-		0 RM12 Medium Creature
-		0 RM13 Large Creature
-		0 RA01 Noncreature
-		0 RB03 Kai'Ji, Legion Conscript
-		0 RB08 Oldsteel Reclamation
-		0 RW09 Visage of the Core
-		0 RG01 Jungle Ruin-Keeper
-		0 RW06 Leycharged Spirit-Drinker
-		0 MW01 Small Creature
-		0 MW02 Small Creature
-		0 MW03 Eni, Oldsteel Reforged
-		0 MU01 Small Creature
-		0 MU02 Medium Creature
-		0 MU03 Noncreature
-		0 MB02 Large Creature
-		0 The Enigmatic Benefactor
-		0 MR01 MediumWall Creature
-		0 MR02 Large Creature
-		0 MR03 Leygrid Rupture
-		0 MG01 Medium Creature
-		0 MG02 Noncreature
-		0 MM03 Medium Creature
-		0 MM04 Medium Creature
-		0 MM05 Medium Creature
-		0 MM06 Medium Creature
-		0 MM07 Large Creature
-		0 MM08 Large Creature
-		0 MM02 Paris, Charming Voyager
-		0 MM01 Legion's Emissary
-		0 MB01 Kajiwara, Spark of Sorrow
 	[UncommonSlot(6)]
 		50 UG12 Sanctuary Radiance
 		50 UW02 Legion Skirmisher
@@ -2796,5 +2710,4 @@
 		50 CL01 Ancient Font
 		50 CB07 Wasteland Standard-Bearer
 		50 Wayfarer's Shrine
-	[BasicSlot(0)]
 	
