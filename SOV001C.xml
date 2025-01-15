@@ -1,0 +1,2893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>SOV</name>
+      <longname>Sands of Vikaar?</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>CW01 Waywalker</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Cyborg Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+This creature gets +1/+0 as long as you control a Desert.
+This creature gets +0/+1 as long as you control an artifact.</text>
+    </card>
+    <card>
+      <name>CW02 Ruinguard Captain</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike
+When this creature enters, create a Junk token. (It’s an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>CW06 Watchful Peacekeeper</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>During your turn, this creature has first strike.
+When this creature enters, you gain 2 life and scry 1.</text>
+    </card>
+    <card>
+      <name>CW04 Quickwit Wayfarer</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}, {T}: Tap target creature. This ability costs {2} less to activate if you control an artifact.</text>
+    </card>
+    <card>
+      <name>CW05 Ambitious Scrapglider</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as you control two or more artifacts, this creature has flying.
+Retrofit 3W (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+    </card>
+    <card>
+      <name>CW03 Steelbeater Stalwart</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}, Sacrifice this creature: Choose one—
+• This creature deals 3 damage to target battle.
+• Destroy target artifact.</text>
+    </card>
+    <card>
+      <name>CW07 Rumblehorn Division</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Beast Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters or dies, create a 1/1 white Soldier creature token.</text>
+    </card>
+    <card>
+      <name>CW08 Heraldic Effigy</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, create a 1/1 white Soldier creature token. Put a +1/+1 counter and a flying counter on it.
+Whenever a Soldier or Army you control attacks, it gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>CW09 Dunland Vigilante</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature enters or attacks, untap another target creature you control.
+Desertcycling {2} ({2}, Discard this card: Search your library for a Desert card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>CW10 Timely Tune-Up</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target artifact or creature you control gets +1/+1 and gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>CW11 Steelbound Standoff</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>2</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. When defense counters are removed, create a 0/0 Army creature token if you don’t control one, then put that many +1/+1 counters on an Army you control.)
+When this battle enters, it deals 4 damage to up to one target tapped creature.</text>
+    </card>
+    <card>
+      <name>CW12 Oldsteel Judge</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Artifact - Advisor </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.
+Retrofit 5WW (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+    </card>
+    <card>
+      <name>CW13 Scrapper Spirit</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control get +2/+1 until end of turn.
+Creature tokens you control get an additional +1/+1 and gain first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>CU01 Refurbished Wanderer</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Insect Cyborg Nomad </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, exile the top card of your library.
+{T}: You may play the exiled card this turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>CU02 Sanctuary Brushwing</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Plant Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever this creature attacks, if two or more cards left your library this turn, scry 1. This creature gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>CU08 Refurbisher Virtuoso</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Elf Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, scry 3, then discover 4. (Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+Desertcycling {2} ({2}, Discard this card: Search your library for a Desert card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>CU07 Unearthed Industry</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card. If you’ve cast a spell from anywhere other than your hand this turn, draw two cards instead.</text>
+    </card>
+    <card>
+      <name>CU06 Scrappy Arcslinger</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+As long as you’ve cast a spell from anywhere other than your hand this turn, this creature gets +2/+0. </text>
+    </card>
+    <card>
+      <name>CU05 Brightmind Raider</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, choose one—
+• Draw a card, then discard a card.
+• Exile target nontoken artifact you control, then return it to the battlefield under its owner’s control.</text>
+    </card>
+    <card>
+      <name>CU04 Oldsteel Progenitor</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Artifact - Artificer </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, create a 2/2 colorless Cyborg artifact creature token.
+Retrofit 3UU (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+    </card>
+    <card>
+      <name>CU03 Fanatic Engineer</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, {T}: Draw a card, then exile a card from your hand. If you control an artifact, you may play the exiled card this turn.</text>
+    </card>
+    <card>
+      <name>CU10 Dynamic Repulsion</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker {5} (You may pay an additional {5} as you cast this spell.)
+Target creature gets +1/+1 and gains hexproof until end of turn. If this spell was kicked, discover 3. (Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+    </card>
+    <card>
+      <name>CU11 Thoughtscatter</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one—
+• Counter target spell unless its controller pays {2}.
+• Create a Junk token. (It’s an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>CU12 Wasteland Beacons</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, scry 1, then draw a card.
+Whenever you cast a spell from anywhere other than your hand, you may sacrifice this artifact. If you do, scry 1, then draw a card.</text>
+    </card>
+    <card>
+      <name>CU13 Scrapyard Detour</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. When defense counters are removed, create a 0/0 Army creature token if you don’t control one, then put that many +1/+1 counters on an Army you control.)
+When this battle enters, tap target creature an opponent controls and put three stun counters on it.  (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+    </card>
+    <card>
+      <name>CU09 Disruption Pulse</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>The owner of target creature or creature spell puts it on the top or bottom of their library.</text>
+    </card>
+    <card>
+      <name>CB06 Legion Blackguard</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Soldier Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature attacks, you may sacrifice another creature or artifact. If you do, you draw a card and you lose 1 life. Put a +1/+1 counter on this creature.</text>
+    </card>
+    <card>
+      <name>CB02 Canny Reserves</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hyena Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Whenever this creature attacks, if two or more cards left your library this turn, it gets +1/+0 and gains deathtouch until end of turn.</text>
+    </card>
+    <card>
+      <name>CB01 Enigmatic Wayfarer</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Demon Nomad </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature enters or dies, it deals 1 damage to target player or battle. You gain 1 life.</text>
+    </card>
+    <card>
+      <name>CB04 Dunland Escort</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may cast this spell from your graveyard by paying 3BB rather than paying its mana cost. If you do, it enters with an additional +1/+1 counter and finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)</text>
+    </card>
+    <card>
+      <name>CB05 Imposing Barracks</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, create a 1/1 white Soldier creature token. Put a +1/+1 counter on it.
+Whenever you attack with one or more Soldiers and/or Armies, each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>CB03 Oldsteel Prophet</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, you may sacrifice another artifact or another creature. If you do, put a +1/+1 counter on this creature and create a Treasure token.</text>
+    </card>
+    <card>
+      <name>CB13 Oldsteel Imperator</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Kindred Artifact - Warrior </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, each opponent sacrifices a creature.
+Retrofit 5BB (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+    </card>
+    <card>
+      <name>CB08 Oldsteel Whispers</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Scry 1.
+You create two Junk tokens and you lose 2 life. (They’re artifacts with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>CB11 In the Shadow of Desolation</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. When defense counters are removed, create a 0/0 Army creature token if you don’t control one, then put that many +1/+1 counters on an Army you control.)
+When this battle enters, destroy up to one target creature an opponent controls.</text>
+    </card>
+    <card>
+      <name>CB12 Ancient Uplink</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player discards two cards. You may sacrifice an artifact or creature. If you do, you draw a card.</text>
+    </card>
+    <card>
+      <name>CB09 Thread of Malice</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast for each +1/+1 counter among creatures you control.
+Target creature gets +2/+0 and gains lifelink and indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>CB10 Legion Coordinator</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you’ve sacrificed a permanent this turn, this spell costs {2} less to cast.
+When this artifact enters, target opponent discards a card and loses 2 life.
+Retrofit 4BB (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+    </card>
+    <card>
+      <name>CR01 Howling Lancer</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Hyena Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike, haste
+This creature gets +2/+0 as long as you’ve sacrificed a permanent this turn.</text>
+    </card>
+    <card>
+      <name>CR10 Scavenger&apos;s Spark</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a Junk token. (It’s an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)
+Flashback 1R (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>CR02 Ambling Safe</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct Spider </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When this creature dies during your turn, create a Junk token. (It’s an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>CR03 Augmented Charger</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Cyborg Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Retrofit 2RR (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+    </card>
+    <card>
+      <name>CR04 Scrapyard Patrol</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dwarf Pilot </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Scrapyard Patrol enters, create a Junk token. (It’s an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)
+Scrapyard Patrol has double strike as long as you’ve sacrificed a permanent this turn.</text>
+    </card>
+    <card>
+      <name>CR05 Reckless Racers</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hyena Pilot </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The first spell you cast from anywhere other than your hand each turn costs {R} (or {1}) less to cast.</text>
+    </card>
+    <card>
+      <name>CR06 Arcweld Armorer</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, create a 3/3 colorless Golem artifact creature token.
+{T}: Target creature token you control gets +2/+2 until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>CR07 Rubblerouser</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental Juggernaut </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When this creature enters, it deals 3 damage to any noncreature target.
+Desertcycling {2} ({2}, Discard this card: Search your library for a Desert card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>CR08 Voltage Surge</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, you may sacrifice an artifact.
+Voltage Surge deals 2 damage to target creature or planeswalker. If this spell’s additional cost was paid, Voltage Surge deals 4 damage instead.</text>
+    </card>
+    <card>
+      <name>CR09 Dune Drake Ambush</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. When defense counters are removed, create a 0/0 Army creature token if you don’t control one, then put that many +1/+1 counters on an Army you control.)
+When this battle enters, choose one—
+• Destroy target artifact.
+• Target creature can’t block this turn.</text>
+    </card>
+    <card>
+      <name>CR11 Salvaged Powerbrand</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1 and has haste.
+Whenever a creature you control with power 4 or greater enters, you may attach this artifact to it.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>CR12 Oldsteel Forgemaster</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Artifact - Artificer </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, creatures you control get +2/+0 and gain haste until end of turn.
+Retrofit 5RR (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+    </card>
+    <card>
+      <name>CR13 Slag Meltdown</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell deals 6 damage to target creature or battle. If excess damage was dealt this way, create a Junk token. (It’s an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>CG01 Break Down</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact or enchantment. Create a Junk token. (It’s an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>CG02 Curious Cactail</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Plant Beast </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, put a +1/+1 counter on target creature.
+{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. Activate only if you control a Desert and only as a sorcery.</text>
+    </card>
+    <card>
+      <name>CG03 Life-Crowned Caelan</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Cat Beast </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature enters with a +1/+1 counter on it.
+Remove a counter from this creature: Add one mana of any color. You gain 1 life. Activate only once each turn.</text>
+    </card>
+    <card>
+      <name>CG04 Steelclad Bruiser</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, if you control a creature with power 4 or greater, draw a card.
+Retrofit 2GG (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+    </card>
+    <card>
+      <name>CG05 Wasteland Pathfinders</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Centaur Nomad </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When this creature enters, create a tapped colorless Desert land token with “{T}: Add {C}.”</text>
+    </card>
+    <card>
+      <name>CG07 Mandiblade Scuttler</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Spider </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature dies, discover 3. (Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+    </card>
+    <card>
+      <name>CG06 Sanctuary Vizier</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Zombie Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature attacks while you control a creature with power 4 or greater, it gets +2/+1 and gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>CG08 Oasis Tortoise</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental Turtle </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When this creature enters, mill three cards. You may put a basic land card or Desert card from your graveyard onto the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>CG09 Sandwoken Brute</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Shark Beast </type>
+        <maintype>Creature</maintype>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever this creature attacks, put a +1/+1 counter on another target creature you control.
+Desertcycling {2} ({2}, Discard this card: Search your library for a Desert card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>CG10 Oasis Derelict</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, put a +1/+1 counter on up to one target creature.
+Retrofit 2GG (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+    </card>
+    <card>
+      <name>CG11 Sanctuary Fervor</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast if it targets a creature you control with a +1/+1 counter on it.
+Target creature you control deals damage equal to its power to another target creature, planeswalker, or battle.</text>
+    </card>
+    <card>
+      <name>UG12 Sanctuary Radiance</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one—
+• Return a land card from your graveyard to the battlefield tapped.
+• Create a tapped token that’s a copy of target Desert you control, except it’s also a Forest. (It has {T}: Add {G}.)</text>
+    </card>
+    <card>
+      <name>CG13 Sanctuary Blessing</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant artifact or creature
+Enchanted permanent has ward {2} and gets +2/+2 as long as it’s a creature.
+You may cast this card from your graveyard if it targets a permanent that entered this turn. If you do, it enters with a finality counter.</text>
+    </card>
+    <card>
+      <name>CZ01 Oldsteel Revelation</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>3G/UG/U</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Discover 4. Untap up to two lands. (To discover 4, exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+Flashback 4G/UG/U</text>
+    </card>
+    <card>
+      <name>CZ02 Sparkmind Tinkerer</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1U/RU/R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on this creature.</text>
+    </card>
+    <card>
+      <name>CZ03 Scuttling Sandrover</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>3G/WG/WG/W</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Spider Scout </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+this creature enters with two +1/+1 counters on it if three or more mana from Deserts was spent to cast it.</text>
+    </card>
+    <card>
+      <name>CZ04 Leyrot Haunt</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2B/GB/G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Skeleton Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each creature you control with a +1/+1 counter on it.
+You may cast this spell from your graveyard by paying 4B/GB/G rather than paying its mana cost. If you do, it enters with a finality counter on it.</text>
+    </card>
+    <card>
+      <name>CZ05 Warwaste Gladiator</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>2B/RB/R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters or dies, it deals 1 damage to each player. Create a Junk token. (It’s an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>CZ06 Legion Sky Monitor</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1W/BW/B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Harpy Soldier Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink
+This creature gets +1/+1 as long as you control an Army or another Soldier.</text>
+    </card>
+    <card>
+      <name>CZ07 Alacsis&apos;s Judiciary</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>3R/WR/W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Warrior Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of combat on your turn, up to one target token you control becomes a 3/3 Warrior creature with haste in addition to its other types until end of turn.</text>
+    </card>
+    <card>
+      <name>CZ08 Hoverbike Courier</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2W/UW/U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever this creature attacks, target artifact creature you control gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>CZ09 Opportunistic Vagabond</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1U/BU/B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Cyborg Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+As long as you’ve cast another spell this turn, you may cast this spell from your graveyard by paying 1U/B rather than paying its mana cost.</text>
+    </card>
+    <card>
+      <name>CZ10 Savage Scavenger</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>R/GR/G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Nomad </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature attacks while you control a creature with power 4 or greater, put a +1/+1 counter on it.
+Retrofit 4R/GR/G (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+    </card>
+    <card>
+      <name>CA01 Anodized Pilgrim</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature dies, choose one—
+• Create a tapped 1/1 white Soldier creature token.
+• Create a tapped Junk token. (It’s an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>CA02 Ruined Colossus</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Artifact Creature - Construct Giant </type>
+        <maintype>Creature</maintype>
+        <pt>7/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample 
+This spell costs {1} less to cast for each Desert you control.
+Desertcycling {2} ({2}, Discard this card: Search your library for a Desert card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>CA04 Dormant Harvester</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color.
+Retrofit {5} (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+    </card>
+    <card>
+      <name>CL02 Sand-Scoured Foundry</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Desert </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{4}, {T}, Sacrifice this land: Create a 3/3 colorless Golem artifact creature token. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>CL03 Alacsis&apos; Encampment</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Desert </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Tap an untapped artifact, creature, or land you control: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>UW02 Legion Skirmisher</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Cyborg Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {1}
+Whenever another Army or Soldier you control enters, this creature gets +1/+1 until end of turn. If this is the second time this ability has resolved this turn, draw a card.</text>
+    </card>
+    <card>
+      <name>UW04 Resolute Surveyor</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, create a tapped colorless Desert land token with “{T}: Add {C}.” Then if each opponent controls fewer lands than you, sacrifice a land.
+Deserts you control have “{T}: Add {W}.”</text>
+    </card>
+    <card>
+      <name>UW03 Crafty Chartwright</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, look at the top five cards of your library. You may reveal a Plains card or a Desert card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Whenever this creature attacks while you control two or more Deserts, it gets +2/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>UW05 Many-Limbed Scrapweaver</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Cyborg Octopus Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature or another nontoken artifact you control enters, you gain life equal to its mana value.
+At the beginning of your end step, if you gained 3 or more life this turn, draw a card.</text>
+    </card>
+    <card>
+      <name>UW06 Shocklance Sentinel</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, reach
+When this creature enters, tap target artifact or creature. Put a stun counter on it for each other Soldier or Army you control.</text>
+    </card>
+    <card>
+      <name>UW07 Winged Scrapseeker</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever this creature attacks, create a token that’s a copy of target token you control.</text>
+    </card>
+    <card>
+      <name>UW09 Dunland Maestro</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Cyborg Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature enters with a +1/+1 counter on it for each Desert you control.
+Retrofit {W} (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+    </card>
+    <card>
+      <name>UW11 Arcflare</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target artifact or enchantment. Each player creates a Junk token. (It’s an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>UW12 Oldsteel Regnant</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Artifact - Noble </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may cast this spell from your hand as though it had flash.
+When this artifact enters, creatures you control get +1/+0 and gain indestructible until end of turn.
+Retrofit 2WW (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+    </card>
+    <card>
+      <name>UW10 Ketriff Valley Blockade</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. When defense counters are removed, create a 0/0 Army creature token if you don’t control one, then put that many +1/+1 counters on an Army you control.)
+When this battle enters, create three 1/1 white Soldier creature tokens.</text>
+    </card>
+    <card>
+      <name>UW14 Coordinated Salvo</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell deals X damage to target attacking, blocking, or artifact creature, where X is 2 plus the number of creatures you control. If you control two or more Soldiers or Armies, scry 2.</text>
+    </card>
+    <card>
+      <name>UU01 Scavenger Sprite</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Faerie Nomad </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever the second card leaves your library each turn, target creature you control has base power 3 until end of turn.</text>
+    </card>
+    <card>
+      <name>UU02 Steelbound Protector</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to cast this spell, pay {3} or exile an artifact you control.
+Whenever this creature leaves the battlefield, return up to one card exiled with it to the battlefield tapped under its owner’s control.</text>
+    </card>
+    <card>
+      <name>UU03 Novice Mutalist</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Mutant Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell from anywhere other than your hand, choose one —
+• Put a +1/+1 counter on this creature.
+• Tap target artifact or creature.
+• Put a stun counter on target artifact or creature.</text>
+    </card>
+    <card>
+      <name>UU04 Flamboyant Refurbisher</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, look at the top five cards of your library. You may exile an artifact card from among them. Put the rest on the bottom of your library in a random order. You may cast the exiled card without paying its mana cost if that spell’s mana value is 3 or less. Put the exiled card into your hand if it wasn’t cast this way.</text>
+    </card>
+    <card>
+      <name>UU05 Whirler Rogue</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Rogue Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, create two 1/1 colorless Thopter artifact creature tokens with flying.
+Tap two untapped artifacts you control: Target creature can’t be blocked this turn.</text>
+    </card>
+    <card>
+      <name>UU06 Dune-Quartz Drake</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental Drake </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature enters, draw a card, then discard a card.
+Whenever the second card leaves your library each turn, creatures you don’t control get -2/-0 until end of turn.</text>
+    </card>
+    <card>
+      <name>UU07 Ruined Animator</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>6U</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Human Warlock Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {X} less to cast, where X is the number of artifacts you control or the greatest mana value among artifacts you control, whichever is greater.
+When this creature enters, tap up to one target creature and put a stun counter on it.</text>
+    </card>
+    <card>
+      <name>UU08 Oldsteel Interdictor</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Kindred Artifact - Cleric </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, return up to one target creature to its owner’s hand. If this spell was cast from anywhere other than your hand, return up to two target creatures to their owners’ hands instead.
+Retrofit 4UU (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+    </card>
+    <card>
+      <name>UU09 Forsaken Submersible</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>4U, Exile this artifact from the battlefield or your graveyard: Discover 5. Activate only as a sorcery. (To discover 5, exile cards from the top of your library until you exile a nonland card with mana value 5 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+Crew 1</text>
+    </card>
+    <card>
+      <name>UU10 Relentless Repurposing</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Draw four cards, then discard two cards unless you discard an artifact card.
+• Return target artifact card from your graveyard to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>UU11 Tinkerer&apos;s Bracers</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever equipped creature attacks, create a Junk token. (It’s an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)
+Whenever you cast a spell from anywhere other than your hand, untap equipped creature. That creature gets +2/+2 until end of turn.
+Equip {1}</text>
+    </card>
+    <card>
+      <name>UU12 Infused Madness</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one — 
+• Counter target spell.
+• Create a tapped 3/3 red Spawn creature token.</text>
+    </card>
+    <card>
+      <name>UU13 Oldsteel Foundry Expedition</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. When defense counters are removed, create a 0/0 black Army creature token if you don’t control one, then put that many +1/+1 counters on an Army you control.)
+When this battle enters, create a token that’s a copy of up to one target artifact or creature you control, except it’s a 4/4 artifact creature in addition to its other types.</text>
+    </card>
+    <card>
+      <name>UU14 Sap Energy</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant artifact or creature
+Enchanted permanent loses all abilities and doesn’t untap during its controller’s untap step.
+When this enchantment enters, tap enchanted permanent, then discover 3. (Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+    </card>
+    <card>
+      <name>UG01 Dustborn Leytracer</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Sand Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as this creature is on the battlefield, it’s a Desert land in addition to its other types.
+{T}: Add {G}.
+{T}: Add one mana of any type a Desert you control could produce.</text>
+    </card>
+    <card>
+      <name>UG05 Dunland Trophysage</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, distribute three +1/+1 counters among up to three target creatures you control.
+Whenever you attack, target attacking creature with a +1/+1 counter on it gains deathtouch until end of turn.</text>
+    </card>
+    <card>
+      <name>UG04 Forlorn Scavenger</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Cyborg Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you discover, double target creature’s power and toughness until end of turn.
+5GG: Discover 3. Activate only as a sorcery. (To discover 3, exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+    </card>
+    <card>
+      <name>UG03 Armored Sandscraper</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Crab </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature enters with a +1/+1 counter on it.
+Whenever a creature you control with a +1/+1 counter on it becomes the target of a spell or ability you don’t control, counter that spell or ability unless its controller pays {1}. You gain 2 life.</text>
+    </card>
+    <card>
+      <name>UG06 Roaming Monitor</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever a creature you control with power 4 or greater attacks, another target attacking creature gets +1/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>UG07 Steelskin Coreguard</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Cyborg Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Retrofit {G} (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+    </card>
+    <card>
+      <name>UG10 Oldsteel Parasite</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Kindred Artifact - Fungus </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of combat on your turn, choose target permanent you control. If it’s not a creature, it becomes a 0/0 artifact creature in addition to its other types. Then it gets +4/+4 and gains vigilance and haste until end of turn.
+Retrofit 1G (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+    </card>
+    <card>
+      <name>UG08 Cunning Dunbreaker</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Snake </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Trample
+When this creature enters, choose one—
+• Destroy target artifact or enchantment.
+• Target creature gains hexproof until end of turn.</text>
+    </card>
+    <card>
+      <name>UG09 Sanctuary Rotlurker</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Crab Horror </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, trample
+When this creature enters, creatures you control with +1/+1 counters on them get +2/+2 and gain trample and haste until end of turn.</text>
+    </card>
+    <card>
+      <name>UG11 Oldsteel Aberrant</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Kindred Artifact - Horror </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, put a +1/+1 counter on up to one target creature.
+If one or more +1/+1 counters would be put on an permanent you control, that many plus one +1/+1 counters are put on it instead.
+Retrofit 2GG (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+    </card>
+    <card>
+      <name>CG12 Across the Desolate Wild</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. When defense counters are removed, create a 0/0 Army creature token if you don’t control one, then put that many +1/+1 counters on an Army you control.)
+When this battle enters, draw a card. You may put a land card from your hand onto the battlefield. If you put a Desert onto the battlefield this way, you gain 2 life.</text>
+    </card>
+    <card>
+      <name>UG14 Oldsteel Terravator</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Kindred Artifact - Druid </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, create two tapped colorless Desert land tokens with “{T}: Add {C}.”
+Retrofit 6GG (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+    </card>
+    <card>
+      <name>UMBR Kroddar, Steel-Scourge</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>2BR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Elemental Crocodile </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Kroddar enters, create two Junk tokens. (They’re artifacts with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)
+Sacrifice another creature or artifact: Target creature you control gets +2/+0 and gains menace until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>UMRG Oldsteel Kinkeeper</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Kindred Artifact - Druid </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control with power 4 or greater enters, this artifact deals 2 damage to each opponent.
+Retrofit 1RG (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+    </card>
+    <card>
+      <name>UMUR Estle, Leygrid Mutalist</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2UR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Mutant Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste, ward {1}
+Whenever you cast an instant or sorcery spell from your hand, exile that card instead of putting it into your graveyard as it resolves.
+Whenever this creature attacks, you may discard a card. If you do, you may cast a spell exiled with this creature without paying its mana cost.</text>
+    </card>
+    <card>
+      <name>UMBG Fetid Incubator</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Beast Egg </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender (This creature can’t attack.)
+Whenever you attack, put a +1/+1 counter on target creature you control. Then if there are three or more +1/+1 counters among creatures you control, sacrifice this creature and create a 4/4 green Beast creature token that’s tapped and attacking.</text>
+    </card>
+    <card>
+      <name>UMGW Wasteland Surveyor</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Cyborg Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, choose one. If you control two or more Deserts, choose both instead.
+• Mill four cards. You may put an artifact, creature or land card from among them into your hand.
+• Put a +1/+1 counter and a vigilance counter on this creature.</text>
+    </card>
+    <card>
+      <name>UMUW Augmented Scrapper</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, if you cast it, another target noncreature, nontoken artifact you control gains retrofit {0} until end of turn. (You may cast it from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)
+Retrofit 1WU</text>
+    </card>
+    <card>
+      <name>UMGU Oasis Guardian</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>4GU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Elemental Snake </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast your first spell during each of your turns, discover 3. (Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+2G, Discard this card: Create a tapped colorless Desert land token with “{T}: Add {C}.”</text>
+    </card>
+    <card>
+      <name>UMWB Othar, Dunland Champion</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Cyborg Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever another Soldier or Army you control enters, each opponent loses 1 life and you gain 1 life.
+{T}, Pay 1 life, Sacrifice an artifact or creature: Create a tapped 1/1 white Soldier creature token.</text>
+    </card>
+    <card>
+      <name>UA01 Small Creature</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Artifact Creature</type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>UA02 Noncreature</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>UA03 Noncreature</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>UA04 Noncreature</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>UA05 Noncreature</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Windswept Waystone</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Desert </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters with two wind counters on it.
+{T}: Add {C}.
+If another Desert you control would enter tapped, you may remove a wind counter from this land. If you do, that Desert enters untapped.</text>
+    </card>
+    <card>
+      <name>UL02 Veil-Marked Ruin</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Desert </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+{T}: Add {U} or {B}.
+Tap three untapped Deserts you control: This land becomes a 3/3 Sand Construct creature until your next end step. It’s still a land.
+Whenever Veil-Marked Ruin attacks, draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>UL10 Mist-Marked Strand</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Desert </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+{T}: Add {G} or {U}.
+Tap five untapped Deserts you control: This land becomes a 1/4 Sand Demon creature until your next end step. It’s still a land.
+Whenever Mist-Marked Strand attacks, mill three cards. You may cast a spell with mana value 3 or less from among them without paying its mana cost.</text>
+    </card>
+    <card>
+      <name>UG02 Fetid Dunekeeper</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Whenever this creature attacks, if you control three or more Deserts, put a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>UMUB Leygrid Interlink</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever the second card leaves your library each turn, exile the top card of your library face down.
+You may look at and play cards exiled with this artifact. Spells cast this way cost {1} less to cast.
+2UB: Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>CL01 Ancient Font</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Desert </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Sacrifice this land: Add one mana of any color. Create a tapped colorless Desert land token with “{T}: Add {C}.”</text>
+    </card>
+    <card>
+      <name>UL04 Rust-Marked Knoll</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Desert </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+{T}: Add {R} or {G}.
+Tap four untapped Deserts you control: This land becomes a 5/3 Sand Juggernaut creature until your next end step. It’s still a land.
+Whenever Rust-Marked Knoll attacks, it gets +1/+1 until end of turn for each other creature you control with power 4 or greater.</text>
+    </card>
+    <card>
+      <name>UL05 Still-Marked Divide</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Desert </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+{T}: Add {G} or {W}.
+Tap five untapped Deserts you control: This land becomes a 4/5 Sand Druid creature until your next end step. It’s still a land.
+Whenever Still-Marked Divide attacks, create a tapped colorless Desert land token with “{T}: Add {C}.”</text>
+    </card>
+    <card>
+      <name>CB07 Wasteland Standard-Bearer</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, create a 1/1 white Soldier creature token. Put a +1/+1 counter on it.
+Desertcycling {2} ({2}, Discard this card: Search your library for a Desert card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>UG13 Awakening Site</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. When defense counters are removed, create a 0/0 black Army creature token if you don’t control one, then put that many +1/+1 counters on an Army you control.)
+When this battle enters, discover 4. (Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+    </card>
+    <card>
+      <name>UMWB Steeltouched Frontliners</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Cyborg Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever this creature attacks, exile up to one target Soldier card from your graveyard. Copy it. You may cast the copy. If you cast a creature spell this way, it enters tapped and attacking.</text>
+    </card>
+    <card>
+      <name>UMUW Leygrid Anchor</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+When this artifact enters, exile target nonland permanent until this artifact leaves the battlefield.
+{2}, {T}, Put a card exiled with this artifact into its owner’s graveyard: Each player draws a card. Activate only if you control another artifact.</text>
+    </card>
+    <card>
+      <name>UMUR The Lost and the Damned</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a land you control enters from anywhere other than your hand or you cast a spell from anywhere other than your hand, create a 3/3 red Spawn creature token.</text>
+    </card>
+    <card>
+      <name>UMUB Benefaction Associate</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2}
+When this creature enters, draw a card, then discard a card.
+As long as two or more cards left your library this turn, this creature gets +2/+2 and has menace.</text>
+    </card>
+    <card>
+      <name>UMRW Raider&apos;s Zeal</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 1/1 white Soldier creature token and a Junk token. (It’s an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)
+This spell deals damage equal to the number of tokens you control to any nonplayer target.</text>
+    </card>
+    <card>
+      <name>UMRG Patch, Brutal Scavenger</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>5RG</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Human Beast Nomad </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each artifact you control and {1} less to cast for each creature you control with power 4 or greater.
+At the beginning of combat on your turn, each creature you control with power 4 or greater gains trample and haste until end of turn.</text>
+    </card>
+    <card>
+      <name>UMGW Thessalie, Dunland Pilgrim</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Untap target land.
+2GW, Sacrifice Thessalie: Create a 6/6 red Wurm creature token with trample. Tap it if it’s not your turn. Activate only if you control three or more Deserts.</text>
+    </card>
+    <card>
+      <name>UMGU Cruin, Elder Caelan</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Elder Beast </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Cruin enters, you gain 2 life and draw a card.
+Whenever you discover, you may exile Cruin from the battlefield or your graveyard. If you do, return it to the battlefield under your control. If you exiled it from your graveyard, put a finality counter on it.</text>
+    </card>
+    <card>
+      <name>UMBR Slagborn Elemental</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Elemental Archer </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+At the beginning of combat on your turn, if you’ve sacrificed a permanent this turn, put a +1/+1 counter on this creature.
+{T}, Sacrifice this creature: It deals damage equal to its power to any target. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>UMBG Sanctuary Renegade</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Rogue Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature has deathtouch and lifelink as long as there are two or more +1/+1 counters among creatures you control.
+Whenever this creature or another creature you control enters, you may pay 1 life. If you do, put a +1/+1 counter on that creature.</text>
+    </card>
+    <card>
+      <name>UMRW Alacsis, Joyful Tyrant</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature enters or attacks, creature tokens you control get +1/+1 until end of turn. You gain 1 life for each noncreature token you control.
+When this creature dies, if it’s not a token, create a token that’s a copy of it.</text>
+    </card>
+    <card>
+      <name>Wayfarer&apos;s Shrine</name>
+      <set rarity="common">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Pay 1 life, Sacrifice Wayfarer’s Shrine: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>UL06 Age-Marked Shrine</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Desert </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+{T}: Add {W} or {B}.
+Tap three untapped Deserts you control: This land becomes a 2/3 Sand Soldier creature until your next end step. It’s still a land.
+Whenever Age-Marked Shrine attacks, up to one target Soldier or Army you control gains lifelink until end of turn.</text>
+    </card>
+    <card>
+      <name>UL07 Steam-Marked Dune</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Desert </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+{T}: Add {U} or {R}.
+Tap three untapped Deserts you control: This land becomes a 3/2 Sand Wraith creature until your next end step. It’s still a land.
+Whenever Steam-Marked Dune attacks, exile the top card of your library. You may play it this turn.</text>
+    </card>
+    <card>
+      <name>UL09 Awe-Marked Monument</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Desert </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+{T}: Add {W} or {R}.
+Tap two untapped Deserts you control: This land becomes a 2/1 Sand Warrior creature until your next end step. It’s still a land.
+Whenever Awe-Marked Monument attacks, it gains first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>UL01 Sky-Marked Vantage</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Desert </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+{T}: Add {W} or {U}.
+Tap four untapped Deserts you control: This land becomes a 4/4 Sand Whale creature until your next end step. It’s still a land.
+Whenever Sky-Marked Vantage attacks, target creature you control gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>UL03 Grave-Marked Crag</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Desert </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+{T}: Add {B} or {R}.
+Tap two untapped Deserts you control: This land becomes a 2/1 Sand Rogue creature until your next end step. It’s still a land.
+Whenever Grave-Marked Crag attacks, you may sacrifice another nonland permanent. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>UL08 Roil-Marked Passage</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Desert </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+{T}: Add {B} or {G}.
+Tap three untapped Deserts you control: This land becomes a 3/2 Sand Elemental creature until your next end step. It’s still a land.
+Whenever Roil-Marked Passage attacks, put a +1/+1 counter on target creature you control.</text>
+    </card>
+    <card>
+      <name>UB01 Ruin Scrounger</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Mutant Rat Dog </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature enters tapped.
+Whenever you attack, if two or more cards left your library this turn, return this creature from your graveyard to the battlefield tapped and attacking.</text>
+    </card>
+    <card>
+      <name>UB02 Benefaction Recruiter</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rogue Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, create a 1/1 white Soldier creature token.
+Whenever a Soldier or Army you control attacks, defending player loses 1 life.</text>
+    </card>
+    <card>
+      <name>UB03 Relentless Steelhound</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Wolf Cyborg </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+At the beginning of combat on your turn, if two or more cards left your library this turn, put a +1/+1 counter on this creature.</text>
+    </card>
+    <card>
+      <name>UB04 Dunland Pioneer</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Nomad </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature you control with a +1/+1 counter on it attacks, that creature can’t be blocked this turn unless defending player pays 2 life.
+Whenever the second card leaves your library each turn, put a +1/+1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>UB05 Alloyed Devotee</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Monk Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, you may sacrifice another creature or artifact. If you do, look at the top four cards of your library. Put one into your hand and the rest into your graveyard.
+Retrofit 1BB (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+    </card>
+    <card>
+      <name>UB06 Air-Squad Marshal</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Cyborg Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying, lifelink
+When this creature enters, destroy up to one target creature if it was dealt damage this turn or if you control another Soldier or Army.</text>
+    </card>
+    <card>
+      <name>UB07 Rustfeeder Hulk</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Fungus Horror </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, you lose 2 life and create two Junk tokens. (They’re artifacts with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)
+Sacrifice another artifact or creature: this creature gains indestructible until end of turn. Tap it.</text>
+    </card>
+    <card>
+      <name>UB08 Legion Commander</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>7B</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each Soldier or Army you control.
+When this creature enters, create two 1/1 white Soldier creature tokens, then put a +1/+1 counter on each other Soldier or Army you control.</text>
+    </card>
+    <card>
+      <name>UB09 Calamity Cascade</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player sacrifices a creature.
+Flashback—1B, Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>UB10 Perilous Excavation</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, pay {2} or remove a +1/+1 counter from a permanent you control.
+You draw three cards and lose 3 life.</text>
+    </card>
+    <card>
+      <name>UB11 Augmented Ascent</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield. If a creature enters this way, it enters with an additional +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>UB12 Grind to Dust</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may pay {B} rather than pay this spell’s mana cost if you’ve sacrificed a permanent this turn.
+Destroy target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>UB13 Skora Dunes Hunt</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>0</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. When defense counters are removed, create a 0/0 Army creature token if you don’t control one, then put that many +1/+1 counters on an Army you control.)
+As this battle enters, an opponent reveals their hand. You choose a nonland card from it. Exile that card. Put X defense counters on this battle, where X is the exiled card’s mana value.</text>
+    </card>
+    <card>
+      <name>UB14 Oldsteel Tombkeeper</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Artifact - Noble </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, other creatures get -2/-2 until end of turn.
+Retrofit 4BB (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+    </card>
+    <card>
+      <name>UW01 Legion Instigator</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Cyborg Soldier Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}, Sacrifice this creature: Draw a card.
+When this creature dies, create a 1/1 white Soldier creature token.</text>
+    </card>
+    <card>
+      <name>UW08 Augmented Convoy</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Cyborg Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, ward {2}
+Whenever this creature attacks, it gets +X/+X until end of turn, where X is the number of artifacts you control or the greatest mana value among artifacts you control, whichever is greater.</text>
+    </card>
+    <card>
+      <name>UW13 Scrapper&apos;s Pirouette</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature or artifact you control, then return it to the battlefield under its owner’s control. It gains hexproof and indestructible until end of turn. If it’s a creature, it also gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>UR01 Ingenious Augmenter</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on this creature.  
+Whenever this creature dies, it deals damage equal to its power to any target.</text>
+    </card>
+    <card>
+      <name>UR02 Starved Brute</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Lizard </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, haste
+Whenever this creature attacks or blocks while you don’t control another creature with power 4 or greater, sacrifice it at end of combat.</text>
+    </card>
+    <card>
+      <name>UR03 Sanctuary Enforcer</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever an artifact enters under an opponent’s control, this creature deals 2 damage to them.</text>
+    </card>
+    <card>
+      <name>UR04 Leycharged Ravager</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Cyborg Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, if you sacrificed a permanent this turn, add BR.
+Retrofit 3R (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+    </card>
+    <card>
+      <name>UR05 Breachblade Gladiator</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Whenever you attack, if you’ve sacrificed a permanent this turn, this creature deals 1 damage to any target.</text>
+    </card>
+    <card>
+      <name>UR06 Tunnel-Hunter Griff</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Griffin Mutant </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever you sacrifice a permanent, target creature can’t block this turn.</text>
+    </card>
+    <card>
+      <name>UR07 Charred Cavalry</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Construct Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of combat on your turn, create a 1/1 white Soldier creature token. It gains haste until end of turn.
+1R: Creature tokens you control get +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>UR08 Catastrophic Infusion</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {3} less to cast if you control a creature with power 4 or greater or if you reveal a creature card with power 4 or greater from your hand as an additional cost to cast it.
+This spell deals 5 damage to any nonplayer target.</text>
+    </card>
+    <card>
+      <name>UR09 Oldsteel Terraformer</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Kindred Artifact - Assembly-Worker </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, up to one target creature you control gets +1/+1 until end of turn. Up to one target creature can’t block this turn.
+Retrofit 2R (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+    </card>
+    <card>
+      <name>UR10 Market&apos;s Bustle</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you attack, exile the top card of your library. Then you may create a tapped and attacking 1/1 white Soldier creature token. If you don’t, you may play the exiled card until end of turn.</text>
+    </card>
+    <card>
+      <name>UR11 Arcstrike Ambush</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Battle - Encounter </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As an Encounter enters, choose an opponent to protect it. When defense counters are removed, create a 0/0 Army creature token if you don’t control one, then put that many +1/+1 counters on an Army you control.)
+Flash
+When this battle enters, it deals 3 damage to any other target.</text>
+    </card>
+    <card>
+      <name>UR12 Scrapper Tactics</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one — 
+• This spell deals 2 damage to each creature.
+• Destroy each artifact with mana value 2 or less.</text>
+    </card>
+    <card>
+      <name>UR13 Sucessful Salvage</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, discard a card.
+Draw a card and create a Treasure token, a 1/1 white Soldier creature token, and a Junk token. (It’s an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>UR14 Leygrid Mutation</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 3/3 red Spawn creature tokens.
+Flashback—2R, Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Sands of Vikaar archetypes</name>
+      <set>SOV</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>WU: Blink/Noncreature artifacts control
+
+UB: Paradox Tempo
+
+BR: If you’ve sacrificed this turn.
+
+RG: Ferocious Artifacts
+
+GW: Deserts
+
+WB: Soldiers Kindred
+
+BG: Counters
+
+GU: Discover Ramp
+
+UR: Paradox Spellslinger
+
+RW: Tokens
+WUBRG: Deserts theme.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Sand Whale</name>
+      <set>SOV</set>
+      <prop>
+        <colors>WU</colors>
+        <type>Token Creature - Sand Whale </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature dies, create a Desert land token with “{T}: Add {C}.”</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Desert</name>
+      <set>SOV</set>
+      <prop>
+        <colors></colors>
+        <type>Token Land - Desert </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Junk</name>
+      <set>SOV</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Junk </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Treasure</name>
+      <set>SOV</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Golem</name>
+      <set>SOV</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Spawn</name>
+      <set>SOV</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Spawn </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
