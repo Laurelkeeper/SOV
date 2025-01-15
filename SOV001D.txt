@@ -1073,7 +1073,7 @@
 	    {
 	        "name": "UG14 Oldsteel Terravator",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{G}",
+	        "mana_cost": "{2}{G}{G}",
 	        "type": "Kindred Artifact — Druid ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Laurelkeeper/SOV/main/SOV001C-files/UG14 Oldsteel Terravator.png"
@@ -1170,48 +1170,48 @@
 	        }
 	    },
 	    {
-	        "name": "UA01 Small Creature",
+	        "name": "UA04 Oldsteel Pathlighter",
 	        "rarity": "uncommon",
-	        "mana_cost": "",
-	        "type": "Artifact Creature",
+	        "mana_cost": "{3}",
+	        "type": "Kindred Artifact — Nomad  ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Laurelkeeper/SOV/main/SOV001C-files/UA01 Small Creature.png"
+	            "en": "https://raw.githubusercontent.com/Laurelkeeper/SOV/main/SOV001C-files/UA04 Oldsteel Pathlighter.png"
 	        }
 	    },
 	    {
-	        "name": "UA02 Noncreature",
+	        "name": "UA01 Alloyed Coronet",
 	        "rarity": "uncommon",
-	        "mana_cost": "",
-	        "type": "Artifact",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Laurelkeeper/SOV/main/SOV001C-files/UA02 Noncreature.png"
+	            "en": "https://raw.githubusercontent.com/Laurelkeeper/SOV/main/SOV001C-files/UA01 Alloyed Coronet.png"
 	        }
 	    },
 	    {
-	        "name": "UA03 Noncreature",
+	        "name": "UA02 Fractured Leytower",
 	        "rarity": "uncommon",
-	        "mana_cost": "",
+	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Laurelkeeper/SOV/main/SOV001C-files/UA03 Noncreature.png"
+	            "en": "https://raw.githubusercontent.com/Laurelkeeper/SOV/main/SOV001C-files/UA02 Fractured Leytower.png"
 	        }
 	    },
 	    {
-	        "name": "UA04 Noncreature",
+	        "name": "UA03 Looming Steelsplinters",
 	        "rarity": "uncommon",
-	        "mana_cost": "",
+	        "mana_cost": "{3}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Laurelkeeper/SOV/main/SOV001C-files/UA04 Noncreature.png"
+	            "en": "https://raw.githubusercontent.com/Laurelkeeper/SOV/main/SOV001C-files/UA03 Looming Steelsplinters.png"
 	        }
 	    },
 	    {
-	        "name": "UA05 Noncreature",
+	        "name": "UA05 Oldsteel Scriptstaff",
 	        "rarity": "uncommon",
-	        "mana_cost": "",
-	        "type": "Artifact",
+	        "mana_cost": "{5}",
+	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Laurelkeeper/SOV/main/SOV001C-files/UA05 Noncreature.png"
+	            "en": "https://raw.githubusercontent.com/Laurelkeeper/SOV/main/SOV001C-files/UA05 Oldsteel Scriptstaff.png"
 	        }
 	    },
 	    {
@@ -2520,194 +2520,4 @@
 	        }
 	    }
 	]
-	[UncommonSlot(6)]
-		50 UG12 Sanctuary Radiance
-		50 UW02 Legion Skirmisher
-		50 UW04 Resolute Surveyor
-		50 UW03 Crafty Chartwright
-		50 UW05 Many-Limbed Scrapweaver
-		50 UW06 Shocklance Sentinel
-		50 UW07 Winged Scrapseeker
-		50 UW09 Dunland Maestro
-		50 UW11 Arcflare
-		50 UW12 Oldsteel Regnant
-		50 UW10 Ketriff Valley Blockade
-		50 UW14 Coordinated Salvo
-		50 UU01 Scavenger Sprite
-		50 UU02 Steelbound Protector
-		50 UU03 Novice Mutalist
-		50 UU04 Flamboyant Refurbisher
-		50 UU05 Whirler Rogue
-		50 UU06 Dune-Quartz Drake
-		50 UU07 Ruined Animator
-		50 UU08 Oldsteel Interdictor
-		50 UU09 Forsaken Submersible
-		50 UU10 Relentless Repurposing
-		50 UU11 Tinkerer's Bracers
-		50 UU12 Infused Madness
-		50 UU13 Oldsteel Foundry Expedition
-		50 UU14 Sap Energy
-		50 UG01 Dustborn Leytracer
-		50 UG05 Dunland Trophysage
-		50 UG04 Forlorn Scavenger
-		50 UG03 Armored Sandscraper
-		50 UG06 Roaming Monitor
-		50 UG07 Steelskin Coreguard
-		50 UG10 Oldsteel Parasite
-		50 UG08 Cunning Dunbreaker
-		50 UG09 Sanctuary Rotlurker
-		50 UG11 Oldsteel Aberrant
-		50 UG14 Oldsteel Terravator
-		50 UMBR Kroddar, Steel-Scourge
-		50 UMRG Oldsteel Kinkeeper
-		50 UMUR Estle, Leygrid Mutalist
-		50 UMBG Fetid Incubator
-		50 UMGW Wasteland Surveyor
-		50 UMUW Augmented Scrapper
-		50 UMGU Oasis Guardian
-		50 UMWB Othar, Dunland Champion
-		50 UA01 Small Creature
-		50 UA02 Noncreature
-		50 UA03 Noncreature
-		50 UA04 Noncreature
-		50 UA05 Noncreature
-		50 Windswept Waystone
-		50 UL02 Veil-Marked Ruin
-		50 UL10 Mist-Marked Strand
-		50 UG02 Fetid Dunekeeper
-		50 UMUB Leygrid Interlink
-		50 UL04 Rust-Marked Knoll
-		50 UL05 Still-Marked Divide
-		50 UG13 Awakening Site
-		50 UMWB Steeltouched Frontliners
-		50 UMUW Leygrid Anchor
-		50 UMUR The Lost and the Damned
-		50 UMUB Benefaction Associate
-		50 UMRW Raider's Zeal
-		50 UMRG Patch, Brutal Scavenger
-		50 UMGW Thessalie, Dunland Pilgrim
-		50 UMGU Cruin, Elder Caelan
-		50 UMBR Slagborn Elemental
-		50 UMBG Sanctuary Renegade
-		50 UMRW Alacsis, Joyful Tyrant
-		50 UL06 Age-Marked Shrine
-		50 UL07 Steam-Marked Dune
-		50 UL09 Awe-Marked Monument
-		50 UL01 Sky-Marked Vantage
-		50 UL03 Grave-Marked Crag
-		50 UL08 Roil-Marked Passage
-		50 UB01 Ruin Scrounger
-		50 UB02 Benefaction Recruiter
-		50 UB03 Relentless Steelhound
-		50 UB04 Dunland Pioneer
-		50 UB05 Alloyed Devotee
-		50 UB06 Air-Squad Marshal
-		50 UB07 Rustfeeder Hulk
-		50 UB08 Legion Commander
-		50 UB09 Calamity Cascade
-		50 UB10 Perilous Excavation
-		50 UB11 Augmented Ascent
-		50 UB12 Grind to Dust
-		50 UB13 Skora Dunes Hunt
-		50 UB14 Oldsteel Tombkeeper
-		50 UW01 Legion Instigator
-		50 UW08 Augmented Convoy
-		50 UW13 Scrapper's Pirouette
-		50 UR01 Ingenious Augmenter
-		50 UR02 Starved Brute
-		50 UR03 Sanctuary Enforcer
-		50 UR04 Leycharged Ravager
-		50 UR05 Breachblade Gladiator
-		50 UR06 Tunnel-Hunter Griff
-		50 UR07 Charred Cavalry
-		50 UR08 Catastrophic Infusion
-		50 UR09 Oldsteel Terraformer
-		50 UR10 Market's Bustle
-		50 UR11 Arcstrike Ambush
-		50 UR12 Scrapper Tactics
-		50 UR13 Sucessful Salvage
-		50 UR14 Leygrid Mutation
-	[CommonSlot(8)]
-		50 CW01 Waywalker
-		50 CW02 Ruinguard Captain
-		50 CW06 Watchful Peacekeeper
-		50 CW04 Quickwit Wayfarer
-		50 CW05 Ambitious Scrapglider
-		50 CW03 Steelbeater Stalwart
-		50 CW07 Rumblehorn Division
-		50 CW08 Heraldic Effigy
-		50 CW09 Dunland Vigilante
-		50 CW10 Timely Tune-Up
-		50 CW11 Steelbound Standoff
-		50 CW12 Oldsteel Judge
-		50 CW13 Scrapper Spirit
-		50 CU01 Refurbished Wanderer
-		50 CU02 Sanctuary Brushwing
-		50 CU08 Refurbisher Virtuoso
-		50 CU07 Unearthed Industry
-		50 CU06 Scrappy Arcslinger
-		50 CU05 Brightmind Raider
-		50 CU04 Oldsteel Progenitor
-		50 CU03 Fanatic Engineer
-		50 CU10 Dynamic Repulsion
-		50 CU11 Thoughtscatter
-		50 CU12 Wasteland Beacons
-		50 CU13 Scrapyard Detour
-		50 CU09 Disruption Pulse
-		50 CB06 Legion Blackguard
-		50 CB02 Canny Reserves
-		50 CB01 Enigmatic Wayfarer
-		50 CB04 Dunland Escort
-		50 CB05 Imposing Barracks
-		50 CB03 Oldsteel Prophet
-		50 CB13 Oldsteel Imperator
-		50 CB08 Oldsteel Whispers
-		50 CB11 In the Shadow of Desolation
-		50 CB12 Ancient Uplink
-		50 CB09 Thread of Malice
-		50 CB10 Legion Coordinator
-		50 CR01 Howling Lancer
-		50 CR10 Scavenger's Spark
-		50 CR02 Ambling Safe
-		50 CR03 Augmented Charger
-		50 CR04 Scrapyard Patrol
-		50 CR05 Reckless Racers
-		50 CR06 Arcweld Armorer
-		50 CR07 Rubblerouser
-		50 CR08 Voltage Surge
-		50 CR09 Dune Drake Ambush
-		50 CR11 Salvaged Powerbrand
-		50 CR12 Oldsteel Forgemaster
-		50 CR13 Slag Meltdown
-		50 CG01 Break Down
-		50 CG02 Curious Cactail
-		50 CG03 Life-Crowned Caelan
-		50 CG04 Steelclad Bruiser
-		50 CG05 Wasteland Pathfinders
-		50 CG07 Mandiblade Scuttler
-		50 CG06 Sanctuary Vizier
-		50 CG08 Oasis Tortoise
-		50 CG09 Sandwoken Brute
-		50 CG10 Oasis Derelict
-		50 CG11 Sanctuary Fervor
-		50 CG13 Sanctuary Blessing
-		50 CZ01 Oldsteel Revelation
-		50 CZ02 Sparkmind Tinkerer
-		50 CZ03 Scuttling Sandrover
-		50 CZ04 Leyrot Haunt
-		50 CZ05 Warwaste Gladiator
-		50 CZ06 Legion Sky Monitor
-		50 CZ07 Alacsis's Judiciary
-		50 CZ08 Hoverbike Courier
-		50 CZ09 Opportunistic Vagabond
-		50 CZ10 Savage Scavenger
-		50 CA01 Anodized Pilgrim
-		50 CA02 Ruined Colossus
-		50 CA04 Dormant Harvester
-		50 CL02 Sand-Scoured Foundry
-		50 CL03 Alacsis' Encampment
-		50 CG12 Across the Desolate Wild
-		50 CL01 Ancient Font
-		50 CB07 Wasteland Standard-Bearer
-		50 Wayfarer's Shrine
-	
+	[RareSlot(1 

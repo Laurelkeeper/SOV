@@ -893,7 +893,7 @@ Desertcycling {2} ({2}, Discard this card: Search your library for a Desert card
       </prop>
       <tablerow>1</tablerow>
       <text>When this artifact enters, put a +1/+1 counter on up to one target creature.
-Retrofit 2GG (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
+Retrofit 3G (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
     </card>
     <card>
       <name>CG11 Sanctuary Fervor</name>
@@ -1703,13 +1703,14 @@ When this battle enters, draw a card. You may put a land card from your hand ont
       <set rarity="uncommon">SOV</set>
       <prop>
         <colors>G</colors>
-        <manacost>3G</manacost>
+        <manacost>2GG</manacost>
         <cmc>4</cmc>
         <type>Kindred Artifact - Druid </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>When this artifact enters, create two tapped colorless Desert land tokens with “{T}: Add {C}.”
+Land creatures you control get +1/+1.
 Retrofit 6GG (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
     </card>
     <card>
@@ -1835,70 +1836,77 @@ Whenever another Soldier or Army you control enters, each opponent loses 1 life 
 {T}, Pay 1 life, Sacrifice an artifact or creature: Create a tapped 1/1 white Soldier creature token.</text>
     </card>
     <card>
-      <name>UA01 Small Creature</name>
+      <name>UA04 Oldsteel Pathlighter</name>
       <set rarity="uncommon">SOV</set>
       <prop>
         <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Artifact Creature</type>
-        <maintype>Creature</maintype>
-        <pt></pt>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Artifact - Nomad  </type>
+        <maintype>Artifact</maintype>
       </prop>
-      <tablerow>2</tablerow>
-      <text></text>
+      <tablerow>1</tablerow>
+      <text>Artifact creatures you control get +1/+1.
+Retrofit {2} (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)</text>
     </card>
     <card>
-      <name>UA02 Noncreature</name>
+      <name>UA01 Alloyed Coronet</name>
       <set rarity="uncommon">SOV</set>
       <prop>
         <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1 and has vigilance and ward {1}.
+Equip {3}
+Equip creature that entered this turn {1}</text>
+    </card>
+    <card>
+      <name>UA02 Fractured Leytower</name>
+      <set rarity="uncommon">SOV</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text></text>
+      <text>{T}: Add one mana of any color. This mana can’t be spent to cast spells from your hand.
+{4}, {T}: Exile the top card of your library. You may play that card until you exile another card with this artifact.</text>
     </card>
     <card>
-      <name>UA03 Noncreature</name>
+      <name>UA03 Looming Steelsplinters</name>
       <set rarity="uncommon">SOV</set>
       <prop>
         <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text></text>
+      <text>This artifact enters with three splinter counters on it.
+XX, {T}, Remove X splinter counters from this artifact: You gain twice X life and draw X cards.
+{T}, Sacrifice this artifact: This artifact deals 6 damage to target creature. Activate only if this artifact has no splinter counters on it.</text>
     </card>
     <card>
-      <name>UA04 Noncreature</name>
+      <name>UA05 Oldsteel Scriptstaff</name>
       <set rarity="uncommon">SOV</set>
       <prop>
         <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Artifact</type>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact - Equipment </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>UA05 Noncreature</name>
-      <set rarity="uncommon">SOV</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text></text>
+      <text>Equipped creature gets +3/+3.
+Whenever equipped creature deals combat damage to a player, you may sacrifice this artifact. If you do, discover 5. (Exile cards from the top of your library until you exile a nonland card with mana value 5 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+Equip {2}</text>
     </card>
     <card>
       <name>Windswept Waystone</name>
@@ -1960,6 +1968,7 @@ Whenever Mist-Marked Strand attacks, mill three cards. You may cast a spell with
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch
+Deserts you control have “{T}: Add {G}.”
 Whenever this creature attacks, if you control three or more Deserts, put a +1/+1 counter on it.</text>
     </card>
     <card>
