@@ -2627,7 +2627,7 @@
 		50 UR12 Scrapper Tactics
 		50 UR13 Sucessful Salvage
 		50 UR14 Leygrid Mutation
-	[CommonSlot(6)]
+	[CommonSlot(8)]
 		50 CW01 Waywalker
 		50 CW02 Ruinguard Captain
 		50 CW06 Watchful Peacekeeper
